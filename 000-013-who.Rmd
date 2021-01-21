@@ -27,9 +27,13 @@ Alex, a professor of bioinformatics, studies molecular dynamics of proteins and 
 They are also responsible for teaching an introduction to research to 100 freshman and sophomore students every year.
 They also run a data consulting service at their university, providing support for data-related challenges to research and instructors from any discipline. 
 
+When reading this, I was confused as who you were referring to when you say "they" 
+
 Students complain that intro courses in programming are too theoretical and require more programming knowledge than they have.
 Many students in the department also cannot register for similar classes.
 Alex, has 10s of students working for them in computational molecular dynamics simulations and other data analytics projects.
+
+For this second paragraph, I would start off with explaining what alex does for these students. Since this persona is about Alex and his background, I don't think the students should be the main focus. In my opinion, I would talk about students at the end of the paragraph or maybe underder the special considerations paragraph explaining the students concerns and what Alex wants to do to fix those concerns. 
 
 **Relevant prior knowledge or experience**
 
@@ -37,6 +41,8 @@ Alex performs their research using a combination of Excel spreadsheets and speci
 but is switching to R or Python (which they taught themself during a sabbatical).
 They have never taken a formal programming course, and suffers from impostor syndrome in discussions about programming.
 Alex would like to learn more about how programming can help their research and keep up with the tools their students are learning in class.
+
+are you referring to the people this book is supposed to be for when you say "their or they" or is it students?
 
 **Perception of needs**
 
@@ -65,9 +71,11 @@ Clare has always been a good student and always excelled at things they tried to
 they are hard on themselves when struggling to learn a new skill and
 would rather place blame on the long hours at work than having their peers know they could use assistance.
 
+Is "they" referring to the people that work with Clare?
+
 **Relevant prior knowledge or experience**
 
-Clare keeps up with medical research, but has little to no experience in doing medical research.
+Clare keeps up with medical research, but has little to no experience in doing medical research. -> I wouldn't use medical research twice in one sentence. Maybe instead of saying it at the end, I would cut it short and say "has little to no experience in it"
 They use Excel for non-data related tasks (e.g., making lists), or manually inputting patient data into spreadsheets for chart reviews.
 Wants to be able to collect and manage data as well as learn about the process behind data analysis to perform their own analysis and study one day.
 
@@ -126,7 +134,7 @@ Samir is a graduate student in a bioinformatics program.
 They worked in a wet lab doing bench since their undergraduate days studying neuroscience.
 These days Samir is doing more computational work and starting to use programming based tools to
 look at protein structures.
-They've taken a few classes that had had programming based homework assignments and projects,
+They've taken a few classes that had had programming based homework assignments and projects, -> instead of "had had' maybe say "previously had"
 but the lectures themselves were mostly around theory,
 and many of the programming skills were self-taught.
 
