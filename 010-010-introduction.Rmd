@@ -19,7 +19,7 @@ The Carpentries have started a multilingual glossary of terms at [glossario](htt
 to help learn a lot of the technical jargon used in data science and programming.
 We will try to link to as many of these terms throughout the book,
 if there is a term that you do not know (or always wanted a more formal definition),
-you can either contact the book authors and we can help define it for you (and maybe even submit the definition on your behalf)!
+you can contact the book authors and we can help define it for you (and maybe even submit the definition on your behalf)!
 
 
 ## The Learning Process
