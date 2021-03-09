@@ -77,8 +77,8 @@ We can reference our `medicaldata_tumorgrowth.csv` file inside the `data` folder
 That is, we can use the backslash, `/` to move into folders.
 We can write `data/medicaldata_tumorgrowth.csv` because we are "starting from" the `ds4biomed` folder.
 This is called a **relative path** because the location of the `csv` file is relative to the `ds4biomed` starting point (aka **working directory**).
-If we want to refer to any arbitrary filer or folder on the computer, we can specify the **full path** of the file.
-The full path will start with a drive letter on windows,
+If we want to refer to any arbitrary filer or folder on the computer, we can specify the **full path** of the file. -> Had to look up what "arbitary filer" meant but that could've just been my lack of knowledge in this area
+The full path will start with a drive letter on windows, -> same here, had to look up "drive letter" but once i did that, I was able to understand what you were talking about
 `C:\Users\Daniel\Desktop\ds4biomed\data\medicaldata_tumorgrowth.csv`,
 and a `/` on a Mac,
 `/Users/Daniel/Desktop/ds4biomed/data/medicaldata_tumorgrowth.csv`.
@@ -101,7 +101,7 @@ Suppose we create an `analysis` folder for our `01-load_data.R` script so that o
           |- ds4biomed.Rproj
 ```
 
-Now, if our **working directory** is now in the `analysis` folder,
+Now, if our **working directory** is now located in the `analysis` folder,
 we need a way to reference one folder up to the `ds4biomed` folder *and then* back down to the `data` folder.
 The way we can **relatively** reference the previous folder is with 2 dots, `..`, `../data/medicaldata_tumorgrowth.csv`
 
